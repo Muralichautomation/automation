@@ -8,7 +8,7 @@ describe('amazon homepage', function() {
     browser.sleep(1000);
        
     amazonlogin.enterUserNameandClickOnNext();
-    browser.sleep(1000);
+    browser.sleep(2000);
 
     
 
